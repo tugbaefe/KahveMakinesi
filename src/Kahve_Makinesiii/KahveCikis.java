@@ -8,8 +8,11 @@ public class KahveCikis {
      SutSecim.sutSecim();
      SekerSecim.sekerSecim();
      BoyutSecim.kahveBoyutSecim();
+
+        System.out.println(" ");
         System.out.println("**********************");
-        System.out.println("Kahveniz hazir.Afiyet olsun....");
+
+        System.out.println("....Kahveniz hazir....\n....Afiyet olsun....");
 
 
 
