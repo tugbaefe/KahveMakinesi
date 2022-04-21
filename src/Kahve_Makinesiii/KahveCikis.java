@@ -1,6 +1,9 @@
 package Kahve_Makinesiii;
 
 
+import static Kahve_Makinesiii.Giris.kahveBoyut;
+import static Kahve_Makinesiii.Giris.kahveIsmi;
+
 public class KahveCikis {
     public static void main(String[] args) {
 
@@ -11,8 +14,9 @@ public class KahveCikis {
 
         System.out.println(" ");
         System.out.println("**********************");
+        System.out.println(kahveBoyut+" "+kahveIsmi+" hazir");
 
-        System.out.println("....Kahveniz hazir....\n....Afiyet olsun....");
+        System.out.println("....Afiyet olsun....");
 
 
 
